@@ -1,0 +1,42 @@
+
+.gridOne{
+    display: flex;
+    justify-content: center;
+}
+
+.img{
+    width: auto;
+    height: auto;
+}
+.img2{
+    width: 30%;
+    height:  30%;
+    padding-left: 30%;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.matcard{
+    display: flex;
+    justify-content: center;
+    background-color: #836EFF;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    letter-spacing:2px;
+}
+#autismo{
+    text-align:center;
+    font-family: Ink Free;
+    font-size: 60px;
+    margin: 20px;
+}
+
+.fonty{
+    
+}

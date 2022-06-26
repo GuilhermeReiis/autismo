@@ -1,0 +1,18 @@
+.img{
+    width: 20%;
+    
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 20px;
+
+}
+
+.titulo{
+    text-align:center;
+}
